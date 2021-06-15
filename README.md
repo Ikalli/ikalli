@@ -1,5 +1,5 @@
 # Hello I'm Ikalli! 👋
-Majoring in Software👨‍🎓 | Wanna be Full-Stack Developer👨‍💻 | Working Hard, Fully Passionated! | Future Google Developer
+Majoring in Software👨‍🎓 | Wanna be Full-Stack Developer👨‍💻 | Working Hard, Fully Passionated!
 
 ⚡ Come to my site: https://ikalli.github.io
 
